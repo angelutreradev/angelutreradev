@@ -6,7 +6,6 @@
 
 ### Contacto
 - **Correo**: angelutrera1988@gmail.com :email:
-- **Teléfono**: +569-51210516 :phone:
 - **LinkedIn**: [Angel Utrera Dev](https://www.linkedin.com/in/angel-utrera-dev/) :link:
 
 ### Perfil Profesional :clipboard:
