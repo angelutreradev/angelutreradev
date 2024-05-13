@@ -7,7 +7,7 @@
 ### Contacto
 - **Correo**: angelutrera1988@gmail.com :email:
 - **LinkedIn**: [Angel Utrera Dev](https://www.linkedin.com/in/angel-utrera-dev/) :link:
-
+- **Portafolio**: https://angelutreradev.website/ :link:
 ### Perfil Profesional :clipboard:
 Con 2 años de experiencia en el desarrollo web, me especializo en tecnologías como JavaScript, Node.js, MongoDB y Express. Estoy comprometido con el aprendizaje y actualmente me estoy enfocando en mejorar mis habilidades en ReactJS.
 
@@ -15,6 +15,7 @@ Con 2 años de experiencia en el desarrollo web, me especializo en tecnologías 
 - **Front-end**: JavaScript, jQuery, HTML, CSS, Bootstrap, ReactJS (básico)
 - **Back-end**: Node.js, Express, JWT, Mongoose
 - **Bases de datos**: MongoDB, MySQL
+- **Sistema Operativo**: Linux, Windows
 - **Control de versiones**: GitHub
 
 ### Para ver más sobre mi trabajo y proyectos, visita mi portafolio web en [Mi Portafolio Personal](https://www.angelutreradev.website). :globe_with_meridians:.
